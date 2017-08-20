@@ -60,9 +60,4 @@ app.listen(port, (err) => {
     console.log(`running server in ${port}`);
 }); 
 
-///test2
-//this is a change in master
-//this is a change in test
-//this is a change in master 2
-//this is a change in master 3
-//this is a change in master 4
+// this is a change in test
